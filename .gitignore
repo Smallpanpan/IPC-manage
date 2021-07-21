@@ -2,6 +2,7 @@
 node_modules/
 dist/
 local-data/
+logs/
 npm-debug.log
 .idea/
 npm-debug.log.*
