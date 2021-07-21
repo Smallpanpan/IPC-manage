@@ -1,0 +1,365 @@
+{
+  "keys": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+  "private_key": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "mapping": {
+      ".html": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+    },
+    "root": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "cache": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js"
+  },
+  "session": {
+    "renew": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "maxAge": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "key": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js",
+    "logValue": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-session@3.3.0@egg-session\\config\\config.default.js"
+  },
+  "lru": {
+    "client": {
+      "max": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "maxAge": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+    },
+    "app": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "agent": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+  },
+  "middleware": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+  "io": {
+    "init": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "namespace": {
+      "/": {
+        "connectionMiddleware": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+        "packetMiddleware": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+      }
+    }
+  },
+  "email": {
+    "service": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "user": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "pass": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "ignoreJSON": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "ignore": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+      "type": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "protocolWhiteList": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "value": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "value": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "value": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "ipExceptionList": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "allowMethods": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+  },
+  "sshConfig": {
+    "readyTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+    "algorithms": {
+      "kex": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "cipher": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "serverHostKey": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js",
+      "hmac": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.default.js"
+    }
+  },
+  "sequelize": {
+    "dialect": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "host": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "port": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "username": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "password": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "database": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+    "pool": {
+      "max": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+      "min": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+      "idle": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js"
+    },
+    "define": {
+      "timestamps": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js",
+      "freezeTableName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js"
+    },
+    "timezone": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\config.local.js"
+  },
+  "helper": {
+    "shtml": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-security@2.9.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js",
+      "file": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "files": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js",
+      "disable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-multipart@2.13.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view-nunjucks@2.3.0@egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view-nunjucks@2.3.0@egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view-nunjucks@2.3.0@egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view-nunjucks@2.3.0@egg-view-nunjucks\\config\\config.default.js",
+    "cache": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-view-nunjucks@2.3.0@egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "name": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "cookies": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "proxy": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "version": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "description": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "start": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "stop": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "migrate:new": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "migrate:up": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "migrate:down": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    },
+    "author": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "license": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "dependencies": {
+      "accounting": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "axios": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "bcryptjs": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "co-wechat": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "co-wechat-api": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "co-wechat-oauth": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "crypto": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-cors": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-lru": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-mysql": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-sequelize": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-socket.io": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-ueditor": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-validate": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "egg-view-nunjucks": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "moment": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "mysql2": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "node-jsencrypt": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "nodemailer": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "nodemailer-smtp-transport": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "ssh2": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "stream-wormhole": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "svg-captcha": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "wechat-pay": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "weixin-robot": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "sequelize-auto": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "HOME": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "rundir": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "notFound": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "sitefile": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "middlewares": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "httpClient": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "encoding": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "formLimit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "textLimit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "strict": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "depth": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "encoding": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "env": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "level": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "outputJSON": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "buffer": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "appLogName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "coreLogName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "agentLogName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "errorLogName": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "maxSockets": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "maxSockets": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "logging": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "port": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+      "hostname": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg@2.29.4@egg\\config\\config.default.js"
+}

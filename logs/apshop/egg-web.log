@@ -1,0 +1,67 @@
+2021-07-21 19:26:55,460 INFO 36084 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-21 19:26:55,483 INFO 36084 [egg-multipart] stream mode enable
+2021-07-21 19:26:55,844 INFO 36084 [egg-static] starting static serve /public/ -> D:\gitwork\git\IPC-management\IPC-manage\app\public
+2021-07-21 19:26:55,846 INFO 36084 [egg-security] use methodnoallow middleware
+2021-07-21 19:26:55,847 INFO 36084 [egg-security] use noopen middleware
+2021-07-21 19:26:55,848 INFO 36084 [egg-security] use nosniff middleware
+2021-07-21 19:26:55,848 INFO 36084 [egg-security] use xssProtection middleware
+2021-07-21 19:26:55,848 INFO 36084 [egg-security] use xframe middleware
+2021-07-21 19:26:55,849 INFO 36084 [egg-security] use dta middleware
+2021-07-21 19:26:55,849 INFO 36084 [egg-security] compose 6 middlewares into one security middleware
+2021-07-21 19:26:55,899 INFO 36084 [egg:core] dump config after load, 3ms
+2021-07-21 19:26:55,929 INFO 36084 [egg-watcher:application] watcher start success
+2021-07-21 19:26:55,955 INFO 36084 [egg:core] dump config after ready, 5ms
+2021-07-21 19:27:13,472 INFO 36084 [egg-view-nunjucks] loading templates from ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\view"]
+2021-07-21 19:33:29,032 INFO 23760 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-21 19:33:29,055 INFO 23760 [egg-multipart] stream mode enable
+2021-07-21 19:33:29,414 INFO 23760 [egg-static] starting static serve /public/ -> D:\gitwork\git\IPC-management\IPC-manage\app\public
+2021-07-21 19:33:29,416 INFO 23760 [egg-security] use methodnoallow middleware
+2021-07-21 19:33:29,416 INFO 23760 [egg-security] use noopen middleware
+2021-07-21 19:33:29,417 INFO 23760 [egg-security] use nosniff middleware
+2021-07-21 19:33:29,417 INFO 23760 [egg-security] use xssProtection middleware
+2021-07-21 19:33:29,418 INFO 23760 [egg-security] use xframe middleware
+2021-07-21 19:33:29,418 INFO 23760 [egg-security] use dta middleware
+2021-07-21 19:33:29,418 INFO 23760 [egg-security] compose 6 middlewares into one security middleware
+2021-07-21 19:33:29,470 INFO 23760 [egg:core] dump config after load, 3ms
+2021-07-21 19:33:29,500 INFO 23760 [egg-watcher:application] watcher start success
+2021-07-21 19:33:29,533 INFO 23760 [egg:core] dump config after ready, 5ms
+2021-07-21 19:33:33,292 INFO 23760 [egg-view-nunjucks] loading templates from ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\view"]
+2021-07-21 19:37:23,139 INFO 4260 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-21 19:37:23,162 INFO 4260 [egg-multipart] stream mode enable
+2021-07-21 19:37:23,545 INFO 4260 [egg-static] starting static serve /public/ -> D:\gitwork\git\IPC-management\IPC-manage\app\public
+2021-07-21 19:37:23,547 INFO 4260 [egg-security] use methodnoallow middleware
+2021-07-21 19:37:23,548 INFO 4260 [egg-security] use noopen middleware
+2021-07-21 19:37:23,549 INFO 4260 [egg-security] use nosniff middleware
+2021-07-21 19:37:23,549 INFO 4260 [egg-security] use xssProtection middleware
+2021-07-21 19:37:23,549 INFO 4260 [egg-security] use xframe middleware
+2021-07-21 19:37:23,550 INFO 4260 [egg-security] use dta middleware
+2021-07-21 19:37:23,550 INFO 4260 [egg-security] compose 6 middlewares into one security middleware
+2021-07-21 19:37:23,604 INFO 4260 [egg:core] dump config after load, 4ms
+2021-07-21 19:37:23,632 INFO 4260 [egg-watcher:application] watcher start success
+2021-07-21 19:37:23,657 INFO 4260 [egg:core] dump config after ready, 4ms
+2021-07-21 19:37:48,123 INFO 26416 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-21 19:37:48,146 INFO 26416 [egg-multipart] stream mode enable
+2021-07-21 19:37:48,519 INFO 26416 [egg-static] starting static serve /public/ -> D:\gitwork\git\IPC-management\IPC-manage\app\public
+2021-07-21 19:37:48,521 INFO 26416 [egg-security] use methodnoallow middleware
+2021-07-21 19:37:48,522 INFO 26416 [egg-security] use noopen middleware
+2021-07-21 19:37:48,522 INFO 26416 [egg-security] use nosniff middleware
+2021-07-21 19:37:48,523 INFO 26416 [egg-security] use xssProtection middleware
+2021-07-21 19:37:48,523 INFO 26416 [egg-security] use xframe middleware
+2021-07-21 19:37:48,523 INFO 26416 [egg-security] use dta middleware
+2021-07-21 19:37:48,523 INFO 26416 [egg-security] compose 6 middlewares into one security middleware
+2021-07-21 19:37:48,578 INFO 26416 [egg:core] dump config after load, 4ms
+2021-07-21 19:37:48,605 INFO 26416 [egg-watcher:application] watcher start success
+2021-07-21 19:37:48,631 INFO 26416 [egg:core] dump config after ready, 5ms
+2021-07-21 19:42:11,909 INFO 15880 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-21 19:42:11,930 INFO 15880 [egg-multipart] stream mode enable
+2021-07-21 19:42:12,271 INFO 15880 [egg-static] starting static serve /public/ -> D:\gitwork\git\IPC-management\IPC-manage\app\public
+2021-07-21 19:42:12,273 INFO 15880 [egg-security] use methodnoallow middleware
+2021-07-21 19:42:12,273 INFO 15880 [egg-security] use noopen middleware
+2021-07-21 19:42:12,274 INFO 15880 [egg-security] use nosniff middleware
+2021-07-21 19:42:12,274 INFO 15880 [egg-security] use xssProtection middleware
+2021-07-21 19:42:12,275 INFO 15880 [egg-security] use xframe middleware
+2021-07-21 19:42:12,275 INFO 15880 [egg-security] use dta middleware
+2021-07-21 19:42:12,275 INFO 15880 [egg-security] compose 6 middlewares into one security middleware
+2021-07-21 19:42:12,302 INFO 15880 [egg:core] dump config after load, 4ms
+2021-07-21 19:42:12,329 INFO 15880 [egg-watcher:application] watcher start success
+2021-07-21 19:42:12,358 INFO 15880 [egg:core] dump config after ready, 5ms

@@ -1,0 +1,760 @@
+2021-07-21 19:26:54,628 INFO 25120 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2021-07-21 19:26:54,322 INFO 25120 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-07-21 19:26:54,566 INFO 25120 [egg:core] dump config after load, 3ms
+2021-07-21 19:26:54,596 INFO 25120 [egg-watcher] Start watching: ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app","D:\\gitwork\\git\\IPC-management\\IPC-manage\\config","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy","D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"]
+2021-07-21 19:26:54,596 INFO 25120 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app"
+2021-07-21 19:26:54,596 INFO 25120 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config"
+2021-07-21 19:26:54,596 INFO 25120 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks"
+2021-07-21 19:26:54,596 INFO 25120 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy"
+2021-07-21 19:26:54,597 INFO 25120 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"
+2021-07-21 19:26:54,597 INFO 25120 [egg-watcher:agent] watcher start success
+2021-07-21 19:26:54,635 INFO 25120 [egg:core] dump config after ready, 3ms
+2021-07-21 19:33:28,176 INFO 32876 [egg-sequelize](0ms) Executed (default): SELECT 1+1 AS result
+2021-07-21 19:33:27,871 INFO 32876 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-07-21 19:33:28,114 INFO 32876 [egg:core] dump config after load, 3ms
+2021-07-21 19:33:28,144 INFO 32876 [egg-watcher] Start watching: ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app","D:\\gitwork\\git\\IPC-management\\IPC-manage\\config","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy","D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"]
+2021-07-21 19:33:28,144 INFO 32876 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app"
+2021-07-21 19:33:28,145 INFO 32876 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config"
+2021-07-21 19:33:28,145 INFO 32876 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks"
+2021-07-21 19:33:28,145 INFO 32876 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy"
+2021-07-21 19:33:28,145 INFO 32876 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"
+2021-07-21 19:33:28,146 INFO 32876 [egg-watcher:agent] watcher start success
+2021-07-21 19:33:28,182 INFO 32876 [egg:core] dump config after ready, 3ms
+2021-07-21 19:37:22,263 WARN 32876 [agent:development] reload worker because D:\gitwork\git\IPC-management\IPC-manage\app\router\router.local.js change
+2021-07-21 19:37:22,048 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.local.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703708,"size":2738,"blocks":8,"atimeMs":1626867442045.7537,"mtimeMs":1626867442045.7537,"ctimeMs":1626867442045.7537,"birthtimeMs":1626866606491.021,"atime":"2021-07-21T11:37:22.046Z","mtime":"2021-07-21T11:37:22.046Z","ctime":"2021-07-21T11:37:22.046Z","birthtime":"2021-07-21T11:23:26.491Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:22,049 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.local.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703708,"size":2738,"blocks":8,"atimeMs":1626867442045.7537,"mtimeMs":1626867442045.7537,"ctimeMs":1626867442045.7537,"birthtimeMs":1626866606491.021,"atime":"2021-07-21T11:37:22.046Z","mtime":"2021-07-21T11:37:22.046Z","ctime":"2021-07-21T11:37:22.046Z","birthtime":"2021-07-21T11:23:26.491Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:22,050 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.local.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703708,"size":2738,"blocks":8,"atimeMs":1626867442049.772,"mtimeMs":1626867442045.7537,"ctimeMs":1626867442045.7537,"birthtimeMs":1626866606491.021,"atime":"2021-07-21T11:37:22.050Z","mtime":"2021-07-21T11:37:22.046Z","ctime":"2021-07-21T11:37:22.046Z","birthtime":"2021-07-21T11:23:26.491Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:23,662 WARN 32876 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-21 19:37:47,305 WARN 32876 [agent:development] reload worker because D:\gitwork\git\IPC-management\IPC-manage\app\router\router.prod.js change
+2021-07-21 19:37:47,101 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.prod.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703709,"size":0,"blocks":0,"atimeMs":1626867467100.8447,"mtimeMs":1626867467100.8447,"ctimeMs":1626867467100.8447,"birthtimeMs":1626866606492.018,"atime":"2021-07-21T11:37:47.101Z","mtime":"2021-07-21T11:37:47.101Z","ctime":"2021-07-21T11:37:47.101Z","birthtime":"2021-07-21T11:23:26.492Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:47,102 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.prod.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703709,"size":3056,"blocks":8,"atimeMs":1626867467100.8447,"mtimeMs":1626867467100.8447,"ctimeMs":1626867467100.8447,"birthtimeMs":1626866606492.018,"atime":"2021-07-21T11:37:47.101Z","mtime":"2021-07-21T11:37:47.101Z","ctime":"2021-07-21T11:37:47.101Z","birthtime":"2021-07-21T11:23:26.492Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:47,103 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.prod.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703709,"size":3056,"blocks":8,"atimeMs":1626867467100.8447,"mtimeMs":1626867467100.8447,"ctimeMs":1626867467100.8447,"birthtimeMs":1626866606492.018,"atime":"2021-07-21T11:37:47.101Z","mtime":"2021-07-21T11:37:47.101Z","ctime":"2021-07-21T11:37:47.101Z","birthtime":"2021-07-21T11:23:26.492Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:47,103 INFO 32876 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\router\\router.prod.js","stat":{"dev":1984368206,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977703709,"size":3056,"blocks":8,"atimeMs":1626867467100.8447,"mtimeMs":1626867467100.8447,"ctimeMs":1626867467100.8447,"birthtimeMs":1626866606492.018,"atime":"2021-07-21T11:37:47.101Z","mtime":"2021-07-21T11:37:47.101Z","ctime":"2021-07-21T11:37:47.101Z","birthtime":"2021-07-21T11:23:26.492Z"},"remove":false,"isDirectory":false,"isFile":true}
+2021-07-21 19:37:48,634 WARN 32876 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-21 19:40:24,293 INFO 35560 [egg-sequelize](1ms) Executed (default): SELECT 1+1 AS result
+2021-07-21 19:40:23,983 INFO 35560 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-07-21 19:40:24,230 INFO 35560 [egg:core] dump config after load, 4ms
+2021-07-21 19:40:24,260 INFO 35560 [egg-watcher] Start watching: ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app","D:\\gitwork\\git\\IPC-management\\IPC-manage\\config","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy","D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"]
+2021-07-21 19:40:24,260 INFO 35560 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app"
+2021-07-21 19:40:24,260 INFO 35560 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config"
+2021-07-21 19:40:24,260 INFO 35560 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks"
+2021-07-21 19:40:24,261 INFO 35560 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy"
+2021-07-21 19:40:24,261 INFO 35560 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"
+2021-07-21 19:40:24,261 INFO 35560 [egg-watcher:agent] watcher start success
+2021-07-21 19:40:24,302 INFO 35560 [egg:core] dump config after ready, 4ms
+2021-07-21 19:42:11,141 INFO 2280 [egg-sequelize](0ms) Executed (default): SELECT 1+1 AS result
+2021-07-21 19:42:10,842 INFO 2280 [egg:logger] init all loggers with options: {"dir":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\logs\\apshop","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"apshop-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-07-21 19:42:11,081 INFO 2280 [egg:core] dump config after load, 3ms
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: ["D:\\gitwork\\git\\IPC-management\\IPC-manage\\app","D:\\gitwork\\git\\IPC-management\\IPC-manage\\config","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks","D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy","D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"]
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app"
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config"
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks"
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\mocks_proxy"
+2021-07-21 19:42:11,111 INFO 2280 [egg-watcher] Start watching: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app.js"
+2021-07-21 19:42:11,112 INFO 2280 [egg-watcher:agent] watcher start success
+2021-07-21 19:42:11,148 INFO 2280 [egg:core] dump config after ready, 4ms
+2021-07-21 20:02:42,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\favicon.ico","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:02:42,356 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702233,"size":0,"blocks":8,"atimeMs":1626868962355.3557,"mtimeMs":1626868962342.3916,"ctimeMs":1626868962342.3916,"birthtimeMs":1626866602604.2107,"atime":"2021-07-21T12:02:42.355Z","mtime":"2021-07-21T12:02:42.342Z","ctime":"2021-07-21T12:02:42.342Z","birthtime":"2021-07-21T11:23:22.604Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:02:42,363 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\index.html","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:02:42,376 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702233,"size":0,"blocks":8,"atimeMs":1626868962375.3035,"mtimeMs":1626868962363.3357,"ctimeMs":1626868962363.3357,"birthtimeMs":1626866602604.2107,"atime":"2021-07-21T12:02:42.375Z","mtime":"2021-07-21T12:02:42.363Z","ctime":"2021-07-21T12:02:42.363Z","birthtime":"2021-07-21T11:23:22.604Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:02:42,382 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\logo.png","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:02:42,391 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702233,"size":0,"blocks":8,"atimeMs":1626868962390.2644,"mtimeMs":1626868962380.2896,"ctimeMs":1626868962380.2896,"birthtimeMs":1626866602604.2107,"atime":"2021-07-21T12:02:42.390Z","mtime":"2021-07-21T12:02:42.380Z","ctime":"2021-07-21T12:02:42.380Z","birthtime":"2021-07-21T11:23:22.604Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:02:42,396 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\wx.png","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:02:46,411 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702233,"size":0,"blocks":8,"atimeMs":1626868966411.002,"mtimeMs":1626868962395.25,"ctimeMs":1626868962395.25,"birthtimeMs":1626866602604.2107,"atime":"2021-07-21T12:02:46.411Z","mtime":"2021-07-21T12:02:42.395Z","ctime":"2021-07-21T12:02:42.395Z","birthtime":"2021-07-21T11:23:22.604Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,038 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\app.d2a810e0.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,038 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\app.d2a810e0.css.gz","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,039 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\app.d52156d3.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,039 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-0255.bbcf0635.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,039 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-0620.5cae975e.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,039 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-069d.f3a5659b.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,040 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-0255.bbcf0635.css.gz","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,040 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-0bfb.2989dadc.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,040 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-0e81.2392c272.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,041 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-101d.e41e676f.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,041 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-193f.a3d4a0b4.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,041 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-17ca.0771d6b4.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,041 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-13a5.50c2e62f.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,042 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-20b2.1a76ecff.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,042 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-23f9.379348da.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,042 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-1bda.9b7b6491.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,086 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,086 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-261c.8510c183.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-4197.5cae975e.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-40b8.8510c183.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-336d.813bd038.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-26d6.a66780dc.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-469c.455c5274.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,087 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-4797.b24b9979.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-46ba.fd909240.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-5041.7482bb6d.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-57f8.9db8b3fe.css.gz","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-5237.e5a7fe6f.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-61a1.863c9733.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-57f8.9db8b3fe.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-64af.9da52e09.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,088 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-544d.b7c56a4b.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-77e4.3f4cd04e.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-7c39.98ba98fb.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-7c20.3d8e50d3.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-785b.9dca9eaf.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-7946.581e108e.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-80f7.ca3ce419.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,089 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-8377.8ca6c72c.css.gz","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,090 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-8377.8ca6c72c.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,090 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-87d5.0c9c4594.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,090 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-99b9.b4ac5a52.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,090 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-9d07.c00b0167.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,091 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-2a22.813bd038.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,091 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css\\chunk-2ef7.fcdcc277.css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,091 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\fonts\\element-icons.27c7209.ttf","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,091 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\fonts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,092 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\img\\401.089007e.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,092 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\img","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,093 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702238,"size":0,"blocks":0,"atimeMs":1626869068084.5024,"mtimeMs":1626869068084.5024,"ctimeMs":1626869068084.5024,"birthtimeMs":1626866602611.752,"atime":"2021-07-21T12:04:28.085Z","mtime":"2021-07-21T12:04:28.085Z","ctime":"2021-07-21T12:04:28.085Z","birthtime":"2021-07-21T11:23:22.612Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,093 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\css","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,093 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\fonts","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,093 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\img","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,093 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702238,"size":0,"blocks":0,"atimeMs":1626869068084.5024,"mtimeMs":1626869068084.5024,"ctimeMs":1626869068084.5024,"birthtimeMs":1626866602611.752,"atime":"2021-07-21T12:04:28.085Z","mtime":"2021-07-21T12:04:28.085Z","ctime":"2021-07-21T12:04:28.085Z","birthtime":"2021-07-21T11:23:22.612Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,104 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\27OO.6abe100b.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,104 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":281474977702238,"size":0,"blocks":0,"atimeMs":1626869068084.5024,"mtimeMs":1626869068084.5024,"ctimeMs":1626869068084.5024,"birthtimeMs":1626866602611.752,"atime":"2021-07-21T12:04:28.085Z","mtime":"2021-07-21T12:04:28.085Z","ctime":"2021-07-21T12:04:28.085Z","birthtime":"2021-07-21T11:23:22.612Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,105 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\chunk-libs.2eb16197.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,105 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\chunk-libs.2eb16197.js.gz","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,105 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\Epur.48041187.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,105 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\Epur.48041187.js.gz","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,105 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\JEtC.6082c658.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,112 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,115 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\langs"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,168 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,168 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\jYsI.44656809.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,168 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\kbPl.f61fb624.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,168 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\Oc3i.e5ca348a.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,168 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\t5hZ.4de14421.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\tvtM.2d07a431.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\Vc2m.1af63296.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\wMgq.b3f61770.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\zd34.a453b453.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\wMgq.b3f61770.js.gz","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,169 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js\\ZYJW.8db94dd9.js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,170 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\langs\\zh_CN.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,170 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\langs","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,192 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,195 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,197 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray\\fonts"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,200 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray\\img"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,202 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\langs"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,203 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,226 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\codesample\\css"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,228 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\codesample"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,230 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,231 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\emoticons\\img"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,233 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\emoticons"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,235 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\visualblocks\\css"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,237 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\visualblocks"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,256 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,257 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,260 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray\\fonts"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,261 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray\\img"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,262 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,264 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\js","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray\\content.inline.min.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray\\fonts\\tinymce-small.eot","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce\\skins\\lightgray\\img\\anchor.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\langs\\zh_CN.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\langs","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,265 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\codesample\\css\\prism.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,266 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\codesample\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,266 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\codesample","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,266 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\emoticons\\img\\smiley-cool.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\emoticons\\img","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\visualblocks\\css\\visualblocks.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\plugins\\visualblocks\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray\\content.inline.min.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,267 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray\\fonts\\tinymce-mobile.woff","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5\\skins\\lightgray\\img\\anchor.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\tinymce4.7.5","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,268 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\anchor\\anchor.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\anchor","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\anchor","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment\\attachment.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,269 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,270 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment\\fileTypeImages\\icon_chm.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,270 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment\\fileTypeImages","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,270 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment\\images\\alignicon.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,270 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\attachment\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\background\\background.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\background","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\background\\images\\bg.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\background\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\charts\\chart.config.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\charts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,271 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\charts\\images\\charts0.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,272 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\charts\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,272 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\emotion\\emotion.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,273 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\emotion","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,273 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\emotion\\images\\0.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,273 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\emotion\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,273 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\gmap\\gmap.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,274 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\gmap","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,275 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\image\\image.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,275 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\image","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,275 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\help\\help.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,276 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\help","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,276 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\image\\images\\alignicon.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,276 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\image\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,276 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\insertframe\\insertframe.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,276 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\insertframe","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,277 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\link\\link.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,277 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\link","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,277 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\map\\map.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,277 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\map","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\music\\music.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\music","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\preview\\preview.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\preview","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\preview_wap\\preview.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\preview_wap","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,278 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\scrawl\\images\\addimg.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,279 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\scrawl\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,279 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\scrawl\\images","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,279 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\scrawl","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,279 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\searchreplace\\searchreplace.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\searchreplace","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\snapscreen\\snapscreen.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\snapscreen","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\spechars\\spechars.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\spechars","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\table\\dragicon.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,280 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\table","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,281 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\template\\config.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,282 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\template","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,282 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\template\\images\\bg.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,282 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\template\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\video\\images\\bg.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\video\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\video\\images","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\video","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\webapp\\webapp.html","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\webapp","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,283 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\wordimage\\fClipboard_ueditor.swf","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\dialogs\\wordimage","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\en\\en.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\en","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\en","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\en\\images\\addimage.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,284 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\en\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,285 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\zh-cn\\images\\copy.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,285 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\zh-cn\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,285 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\zh-cn\\images","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,286 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\lang\\zh-cn","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,286 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default\\css\\ueditor.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,286 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default\\css","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default\\images\\anchor.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\themes\\default\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,287 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\codemirror\\codemirror.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\codemirror","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\codemirror","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\adapters\\mootools-adapter.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\adapters","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\adapters","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,288 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,289 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\modules\\annotations.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,289 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\modules","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,289 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\themes\\dark-blue.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,289 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\highcharts\\themes","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,289 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\snapscreen\\UEditorSnapscreen.exe","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,290 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\snapscreen","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,290 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\SyntaxHighlighter\\shCore.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,290 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\SyntaxHighlighter","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,290 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\video-js\\font\\vjs.eot","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\video-js\\font","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\video-js\\font","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\video-js","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\webuploader\\Uploader.swf","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\webuploader","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\zeroclipboard\\ZeroClipboard.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,291 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin\\ueditor\\third-party\\zeroclipboard","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify\\alertify.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify\\css\\alertify.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify\\css","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,292 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify\\css\\themes\\bootstrap.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify\\css\\themes","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify.0.3.11\\alertify.core.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\alertify.0.3.11","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\images\\404.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\jquery\\additional-methods.min.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,293 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\jquery","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,294 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\loading\\loader.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,294 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\common\\loading","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,294 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\fonts\\0XxGQsSc1g4rdRdjJKZrNPk_vArhqVIZ0nv9q090hN8.woff2","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,294 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\fonts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,295 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\fonts\\iconfont\\iconfont.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,295 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\fonts\\iconfont","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,295 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\css\\cart.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,295 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\css","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\css\\iconfont\\iconfont.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\css\\iconfont","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\address-select.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,296 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\dq\\category1.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\dq","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\ico\\approve.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\ico","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\login\\login-bg.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\login","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\pay\\gsyh.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\pay","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,297 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\sxtc\\arrows.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,298 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\sxtc","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,298 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\uc\\bad.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,298 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\img\\uc","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,300 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\css"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,301 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,303 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,304 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\fonts"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,324 ERROR 2280 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public"
+name: "EPERMError"
+pid: 2280
+hostname: DESKTOP-O1VQ3R9
+
+2021-07-21 20:04:28,326 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\css\\bootstrap-theme.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,326 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,326 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,326 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\fonts\\glyphicons-halflings-regular.eot","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,326 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\admin","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\js\\bootstrap.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bootstrap-3.3.7\\js","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider\\images\\bx_loader.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,327 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider\\images","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider\\vendor\\jquery.easing.1.3.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\bxslider\\vendor","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\icheck.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\all.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,328 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\flat\\aero.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\flat","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\futurico\\futurico.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\futurico","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\line\\aero.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\line","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\minimal\\aero.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\minimal","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,329 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\polaris\\polaris.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,330 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\polaris","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,330 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\square\\aero.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,330 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\icheck\\skins\\square","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,330 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\laydate.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\need\\laydate.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\need","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\dahong\\icon.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\dahong","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\dahong","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,331 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\default\\icon.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\default","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\molv\\icon.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\molv","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\yalan\\icon.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\laydate\\skins\\yalan","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\extend\\layer.ext.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,332 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\extend","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\extend","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\mobile\\layer.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\mobile","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\mobile\\need\\layer.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\mobile\\need","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\skin\\default\\icon-ext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\skin\\default","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\skin\\default","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,333 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\layer\\skin","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\scrollbar","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\slick\\ajax-loader.gif","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\slick","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\slick\\fonts\\slick.eot","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\js\\slick\\fonts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\uploads\\1.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\jd\\uploads","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,334 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\custom.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\icons\\fonts\\icomoon.dev.svg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\icons\\fonts","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\icons\\fonts","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\icons","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\styles\\blue.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,335 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\css\\styles","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\arrows.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\bg-slideshow\\1.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\bg-slideshow","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\icons\\China-Flag.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,336 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\icons","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,337 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\avatar.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,337 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,337 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\qview\\1.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,337 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\qview","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,337 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\slides\\1.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,338 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\slides","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,338 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\slideshow\\1.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,338 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\images\\slideshow","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,338 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\pattern\\light-scan-lines.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,339 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\pattern","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,339 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\pay\\gsyh.jpg","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,339 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\pay","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,339 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\payments\\american-express.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,339 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\payments","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\dark_rounded\\btnNext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\dark_rounded","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\dark_rounded","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\dark_square\\btnNext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\dark_square","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\default\\default_thumb.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,340 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\default","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\facebook\\btnNext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\facebook","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\light_rounded\\btnNext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\light_rounded","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\light_square\\btnNext.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPhoto\\light_square","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,341 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPopin\\close.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\prettyPopin","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\revslider\\blue-shope-now.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\images\\revslider","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js\\all.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,342 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js\\twitter\\b86fd48d3130d55d34dc7e560fcff7f7.json","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js\\twitter","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js\\twitter\\lib\\tmhOAuth.php","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\js\\twitter\\lib","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\assets\\arrowleft.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\assets","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\assets","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,343 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\css\\settings-ie8.css","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\css","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\images\\decor_inside.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\images","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\images\\gradient\\g30.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\images\\gradient","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,344 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\js\\jquery.themepunch.revolution.min.js","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\js","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\videojs\\demo.captions.vtt","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\videojs","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\videojs\\font\\vjs.eot","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\assets\\red\\rs-plugin\\videojs\\font","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image\\20190106\\1546782806506388206.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,345 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image\\20190106","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image\\20190106","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image\\20190108\\1546930462889443424.png","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor\\image\\20190108","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload\\ueditor","stat":null,"remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:28,346 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public\\upload","stat":null,"remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:28,347 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","remove":true,"isDirectory":false,"isFile":false}
+2021-07-21 20:04:45,176 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\新建文件夹","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949954412889,"size":0,"blocks":0,"atimeMs":1626869085174.0674,"mtimeMs":1626869085174.0674,"ctimeMs":1626869085174.0674,"birthtimeMs":1626869085174.0674,"atime":"2021-07-21T12:04:45.174Z","mtime":"2021-07-21T12:04:45.174Z","ctime":"2021-07-21T12:04:45.174Z","birthtime":"2021-07-21T12:04:45.174Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:51,066 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\新建文件夹","remove":true,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:51,067 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949954412889,"size":0,"blocks":0,"atimeMs":1626869085176.0623,"mtimeMs":1626869085174.0674,"ctimeMs":1626869091065.354,"birthtimeMs":1626869085174.0674,"atime":"2021-07-21T12:04:45.176Z","mtime":"2021-07-21T12:04:45.174Z","ctime":"2021-07-21T12:04:51.065Z","birthtime":"2021-07-21T12:04:45.174Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:51,067 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949954412889,"size":0,"blocks":0,"atimeMs":1626869085176.0623,"mtimeMs":1626869085174.0674,"ctimeMs":1626869091065.354,"birthtimeMs":1626869085174.0674,"atime":"2021-07-21T12:04:45.176Z","mtime":"2021-07-21T12:04:45.174Z","ctime":"2021-07-21T12:04:51.065Z","birthtime":"2021-07-21T12:04:45.174Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-07-21 20:04:51,233 INFO 2280 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"D:\\gitwork\\git\\IPC-management\\IPC-manage\\app\\public","stat":{"dev":1984368206,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949954412889,"size":0,"blocks":0,"atimeMs":1626869091067.3506,"mtimeMs":1626869085174.0674,"ctimeMs":1626869091232.9062,"birthtimeMs":1626869085174.0674,"atime":"2021-07-21T12:04:51.067Z","mtime":"2021-07-21T12:04:45.174Z","ctime":"2021-07-21T12:04:51.233Z","birthtime":"2021-07-21T12:04:45.174Z"},"remove":false,"isDirectory":true,"isFile":false}
