@@ -4,8 +4,8 @@
   "description": "apshop plat",
   "scripts": {
     "dev": "egg-bin dev",
-    "start": "egg-scripts start --port=7001 --daemon --title=apshop",
-    "stop": "egg-scripts stop --title=apshop",
+    "start": "egg-scripts start --port=7001 --daemon ",
+    "stop": "egg-scripts stop ",
     "migrate:new": "egg-sequelize migration:create",
     "migrate:up": "egg-sequelize db:migrate",
     "migrate:down": "egg-sequelize db:migrate:undo"

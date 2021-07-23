@@ -12,11 +12,11 @@ exports.sequelize  = {
     // 端口号
     port: '3306',
     // 用户名
-    username: 'root',
+    username: 'ipc',
     // 密码
-    password: 'root',
+    password: '3wxehF2AmSbPdADP',
     // 数据库名
-    database: 'apshop',
+    database: 'ipc',
     pool: {
         max: 5,
         min: 0,
@@ -29,5 +29,6 @@ exports.sequelize  = {
     timezone: '+08:00' //东八时区
 };
 exports.security={
-    domainWhiteList: [ '.weixin.qq.com']
+    // domainWhiteList: ['http://localhost:9527'],
+    csrf: false
 };

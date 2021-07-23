@@ -1,7 +1,7 @@
 /* jshint indent: 2 */
 
 module.exports = function(sequelize, DataTypes) {
-  return sequelize.define('userLogin', {
+  return sequelize.define('userlogin', {
     loginString: {
       type: DataTypes.STRING(100),
       allowNull: false,
@@ -25,6 +25,6 @@ module.exports = function(sequelize, DataTypes) {
       defaultValue: '0'
     }
   }, {
-    tableName: 'userLogin'
+    tableName: 'userlogin'
   });
 };

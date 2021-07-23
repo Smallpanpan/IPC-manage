@@ -1,7 +1,7 @@
 /* jshint indent: 2 */
 
 module.exports = function(sequelize, DataTypes) {
-  return sequelize.define('wordbookTitle', {
+  return sequelize.define('wordbooktitle', {
     keyword: {
       type: DataTypes.STRING(30),
       allowNull: false,
@@ -12,6 +12,6 @@ module.exports = function(sequelize, DataTypes) {
       allowNull: false
     }
   }, {
-    tableName: 'wordbookTitle'
+    tableName: 'wordbooktitle'
   });
 };

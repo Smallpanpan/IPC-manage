@@ -184,10 +184,6 @@
       },
       "timezone": "+08:00"
     },
-    "cors": {
-      "origin": "*",
-      "allowMethods": "GET,HEAD,PUT,POST,DELETE,PATCH"
-    },
     "lru": {
       "app": true,
       "agent": false,
@@ -225,8 +221,8 @@
       "description": "apshop plat",
       "scripts": {
         "dev": "egg-bin dev",
-        "start": "egg-scripts start --port=7001 --daemon --title=apshop",
-        "stop": "egg-scripts stop --title=apshop",
+        "start": "egg-scripts start --port=7001 --daemon ",
+        "stop": "egg-scripts stop ",
         "migrate:new": "egg-sequelize migration:create",
         "migrate:up": "egg-sequelize db:migrate",
         "migrate:down": "egg-sequelize db:migrate:undo"
@@ -375,6 +371,10 @@
       "service": "QQ",
       "user": "xxxxxxxxx@qq.com",
       "pass": "<String len: 17>"
+    },
+    "cors": {
+      "origin": "*",
+      "allowMethods": "GET,HEAD,PUT,POST,DELETE,PATCH"
     },
     "sshConfig": {
       "readyTimeout": 5000,
@@ -592,17 +592,6 @@
       "path": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-sequelize@4.3.1@egg-sequelize",
       "version": "4.3.1"
     },
-    "cors": {
-      "enable": true,
-      "package": "egg-cors",
-      "name": "cors",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [],
-      "from": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\plugin.js",
-      "path": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-cors@2.2.3@egg-cors",
-      "version": "2.2.3"
-    },
     "lru": {
       "enable": true,
       "package": "egg-lru",
@@ -626,6 +615,17 @@
       "from": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\plugin.js",
       "path": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-socket.io@4.1.6@egg-socket.io",
       "version": "4.1.6"
+    },
+    "cors": {
+      "enable": false,
+      "package": "egg-cors",
+      "name": "cors",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\config\\plugin.js",
+      "path": "D:\\gitwork\\git\\IPC-management\\IPC-manage\\node_modules\\_egg-cors@2.2.3@egg-cors",
+      "version": "2.2.3"
     }
   }
 }

@@ -1,7 +1,7 @@
 /* jshint indent: 2 */
 
 module.exports = function(sequelize, DataTypes) {
-  return sequelize.define('userLogin_L', {
+  return sequelize.define('userlogin_L', {
     logID: {
       type: DataTypes.INTEGER(11),
       allowNull: false,
@@ -30,6 +30,6 @@ module.exports = function(sequelize, DataTypes) {
       defaultValue: sequelize.literal('CURRENT_TIMESTAMP')
     }
   }, {
-    tableName: 'userLogin_L'
+    tableName: 'userlogin_l'
   });
 };
